@@ -22,15 +22,20 @@
 
 
 
-## Contacts  
-| Small talks                                                                                                                                                         | Profesionnal                                                                                                                                                                               |
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                                                                                                                                                                                                                                                                                                                  |
-| <br> <img src = "https://www.svgrepo.com/show/353655/discord-icon.svg" style = "height: 75px; width: 75px;"/> <h3>[xouxouuu (xoux.#7400)](https://discord.com)</h3> | <br> <img src = "https://www.svgrepo.com/show/452051/linkedin.svg" style = "height: 75px; width: 75px;"/> <h3>[Maxence Maury-Balit](https://www.linkedin.com/in/maxence-maury-balit/)</h3> |
-|                                                                                                                                                                                                                                                                                                                                                                  |
-| <br> <img src = "https://www.svgrepo.com/show/452229/instagram-1.svg" style = "height: 75px; width: 75px;"/> <h3>[@fait.sens](https://instagram.com/fait.sens)</h3> | <br> <img src = "https://www.svgrepo.com/show/452213/gmail.svg" style = "height: 75px; width: 75px;"/> <h3>maury.maxence13@gmail.com</h3>                                                  |
-|                                                                                                                                                                                                                                                                                                                                                                  |
+## Contacts
+<table>
+  <thead>
+    <tr>
+      <th colspan=2>Professionnal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href = "https://linkedin.com/in/maxence-maury-balit"><img src = "https://www.svgrepo.com/show/54425/linkedin.svg" style = "height: 75px; width: 100px;"/></a></td>
+      <td><a href = "mailto:maury.maxence13@gmail.com"><img src = "https://www.svgrepo.com/show/375840/mail.svg" style = "height: 75px; width: 100px;"/></a></td>
+    </tr>
+  </tbody>
+</table>
 
-
-----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------  
 *Last updated: 14/09/2023  -  Maxence MB*

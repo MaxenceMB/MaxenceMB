@@ -12,7 +12,7 @@
 > For us, the main focus is to gain experience by having a project we can work on and learn with.  
 >
 > Github repository: [MaxenceMB/project-2d](https://github.com/MaxenceMB/project-2d)  
-> Made with [@Moukhtar Zoubairov](https://github.com/MoukhtarZBV).  
+> Made with [@Moukhtar Zoubairov](https://github.com/MoukhtarZBV), [@pema](https://github.com/pgwk) and [@Enzo Louis](https://github.com/enzolouis).    
 
 > ### MaxenceMB/chickens-are-dinosaurs
 > Sidescroll platformer we make with my girlfriend as a side project. The main goal here to learn how to work in team and develop our knowledges and skills. It's a chill project, we're making what we want to do; who wouldn't enjoy a common project with their partner!

@@ -3,8 +3,23 @@
 - I love coding, art and video-games which makes me wanna combine the first two to make my own third.
 
   
-
 ## Current projects  
+
+> ### MaxenceMB/super-tic-tac-toe
+> Write desc later dang
+>
+> Github repository: [MaxenceMB/super-tic-tac-toe](https://github.com/MaxenceMB/super-tic-tac-toe) 
+
+> ### enzolouis/doctor-office-website
+> write laterrrrrrrrrrrrr
+>
+> Github repository: [enzolouis/doctors-office-website](https://github.com/enzolouis/doctors-office-website)  
+> Made with [@Enzo Louis](https://github.com/enzolouis).    
+
+
+
+
+## Big projects  
 
 > ### MaxenceMB/project-2d
 > Top down platformer we make with a friend as a side-school project. Our goal is to make the codes only ourselves, with our knowledge and documentations. No copy-and-paste allowed, the goal is to learn.
@@ -38,4 +53,4 @@
 </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-*Last updated: 14/09/2023  -  Maxence MB*
+*Last updated: 12/12/2023  -  Maxence MB*

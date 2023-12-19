@@ -6,12 +6,15 @@
 ## Current projects  
 
 > ### MaxenceMB/super-tic-tac-toe
-> Write desc later dang
+> A simple yet funny super tic-tac-toe fully made in Java.   
+> The interface is made using Java Swing and the MVC method (kinda).
 >
 > Github repository: [MaxenceMB/super-tic-tac-toe](https://github.com/MaxenceMB/super-tic-tac-toe) 
 
 > ### enzolouis/doctor-office-website
-> write laterrrrrrrrrrrrr
+> A fictionnal website for a doctor's office, with a relational database.   
+> The website is made in HTML, CSS, JavaScript and PHP. The database is managed with MySQL.   
+> This is an University project.
 >
 > Github repository: [enzolouis/doctors-office-website](https://github.com/enzolouis/doctors-office-website)  
 > Made with [@Enzo Louis](https://github.com/enzolouis).    
@@ -28,13 +31,14 @@
 >
 > Github repository: [MaxenceMB/project-2d](https://github.com/MaxenceMB/project-2d)  
 > Made with [@Moukhtar Zoubairov](https://github.com/MoukhtarZBV), [@pema](https://github.com/pgwk) and [@Enzo Louis](https://github.com/enzolouis).    
+> *This project is currently paused.*
 
 > ### MaxenceMB/chickens-are-dinosaurs
 > Sidescroll platformer we make with my girlfriend as a side project. The main goal here to learn how to work in team and develop our knowledges and skills. It's a chill project, we're making what we want to do; who wouldn't enjoy a common project with their partner!
 >
 > Github repository: [MaxenceMB/chickens-are-dinosaurs](https://github.com/MaxenceMB/chickens-are-dinosaurs)  
 > Made with [@Defne Çivrilli](https://github.com/daphnexl).  
-
+> *This project is currently paused.*
 
 
 ## Contacts

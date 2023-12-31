@@ -1,15 +1,17 @@
-# 👋 Hi, I’m @MaxenceMB
+# 👋 Yoo, I’m @MaxenceMB
 - I'm a Computer Science student from France 🇫🇷
 - I love coding, art and video-games which makes me wanna combine the first two to make my own third.
 
   
 ## Current projects  
 
-> ### MaxenceMB/super-tic-tac-toe
-> A simple yet funny super tic-tac-toe fully made in Java.   
-> The interface is made using Java Swing and the MVC method (kinda).
+> ### MaxenceMB/life-completion
+> A simple personnal app made in Java.
+> In the app, you can add "achievements" to your life and keep track of them. The goal is to force myself keeping my new year's resolutions by making it look like I have to perfect a Steam game.  
+> Also, there is a page where you can add a message once per week where you tell the best thing that happened this week. Next year, get a full report of everything that happened the best during the year.  
+> This is a personnal project.
 >
-> Github repository: [MaxenceMB/super-tic-tac-toe](https://github.com/MaxenceMB/super-tic-tac-toe) 
+> Github repository: [MaxenceMB/life-completion](https://github.com/MaxenceMB/life-completion) 
 
 > ### enzolouis/doctor-office-website
 > A fictionnal website for a doctor's office, with a relational database.   
@@ -19,26 +21,6 @@
 > Github repository: [enzolouis/doctors-office-website](https://github.com/enzolouis/doctors-office-website)  
 > Made with [@Enzo Louis](https://github.com/enzolouis).    
 
-
-
-
-## Big projects  
-
-> ### MaxenceMB/project-2d
-> Top down platformer we make with a friend as a side-school project. Our goal is to make the codes only ourselves, with our knowledge and documentations. No copy-and-paste allowed, the goal is to learn.
-> The game is basically a topdown exploration game like old zeldas: inventory, combat, quests or skill tree systems are what makes the game what it is. We focus on implementing fonctional systems before having great graphics.
-> For us, the main focus is to gain experience by having a project we can work on and learn with.  
->
-> Github repository: [MaxenceMB/project-2d](https://github.com/MaxenceMB/project-2d)  
-> Made with [@Moukhtar Zoubairov](https://github.com/MoukhtarZBV), [@pema](https://github.com/pgwk) and [@Enzo Louis](https://github.com/enzolouis).    
-> *This project is currently paused.*
-
-> ### MaxenceMB/chickens-are-dinosaurs
-> Sidescroll platformer we make with my girlfriend as a side project. The main goal here to learn how to work in team and develop our knowledges and skills. It's a chill project, we're making what we want to do; who wouldn't enjoy a common project with their partner!
->
-> Github repository: [MaxenceMB/chickens-are-dinosaurs](https://github.com/MaxenceMB/chickens-are-dinosaurs)  
-> Made with [@Defne Çivrilli](https://github.com/daphnexl).  
-> *This project is currently paused.*
 
 
 ## Contacts
@@ -57,4 +39,4 @@
 </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-*Last updated: 12/12/2023  -  Maxence MB*
+*Last updated: 31/12/2023  -  Maxence MB*

@@ -13,22 +13,12 @@
 >
 > Github repository: [MaxenceMB/website-portfolio](https://github.com/MaxenceMB/website-portfolio) 
 
-> ### MaxenceMB/life-completion
-> A simple personnal app made in Java.  
-> In the app, you can add "achievements" to your life and keep track of them. The goal is to force myself keeping my new year's resolutions by making it look like I have to perfect a Steam game.  
-> Also, there is a page where you can add a message once per week where you tell the best thing that happened this week. Next year, get a full report of everything that happened the best during the year.  
+> ### enzolouis/social-network-web
+> A common social network website 
+> The website is pretty simple with personnal accounts and chats between users. We make it using HTML, CSS, JavaScript (Pure, JQuery and some Ajax parts) and pure PHP. For the database, its MySQL using PHPMyAdmin.
 > This is a personnal project.
 >
-> Github repository: [MaxenceMB/life-completion](https://github.com/MaxenceMB/life-completion) 
-
-> ### enzolouis/doctor-office-website
-> A fictionnal website for a doctor's office, with a relational database.   
-> The website is made in HTML, CSS, JavaScript and PHP. The database is managed with MySQL.   
-> This is an University project.
->
-> Github repository: [enzolouis/doctors-office-website](https://github.com/enzolouis/doctors-office-website)  
-> Made with [@Enzo Louis](https://github.com/enzolouis).    
-
+> Github repository: [enzolouis/social-network-web](https://github.com/enzolouis/social-network-web)
 
 
 ## Contacts
@@ -49,4 +39,4 @@
 </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-*Last updated: 01/02/2024  -  Maxence MB*
+*Last updated: 10/02/2024  -  Maxence MB*

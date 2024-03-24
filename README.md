@@ -13,12 +13,13 @@
 >
 > Github repository: [MaxenceMB/website-portfolio](https://github.com/MaxenceMB/website-portfolio) 
 
-> ### enzolouis/social-network-web
-> A common social network website 
-> The website is pretty simple with personnal accounts and chats between users. We make it using HTML, CSS, JavaScript (Pure, JQuery and some Ajax parts) and pure PHP. For the database, its MySQL using PHPMyAdmin.
-> This is a personnal project.
+> ### MaxenceMB/doctors-office-api
+> An API made for the Doctors Office website made with [@enzolouis](https://github.com/enzolouis)    
+> The API is made in PHP. All basic REST API functions (POST, PATCH, GET...) are implemented.    
+> We also made an authentification API that makes and verify JWT Tokens. For the database, its MySQL using PHPMyAdmin.   
+> This is an university project.
 >
-> Github repository: [enzolouis/social-network-web](https://github.com/enzolouis/social-network-web)
+> Github repository: [MaxenceMB/doctors-office-api](https://github.com/MaxenceMB/doctors-office-api)
 
 
 ## Contacts
@@ -39,4 +40,4 @@
 </table>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------  
-*Last updated: 10/02/2024  -  Maxence MB*
+*Last updated: 24/03/2024  -  Maxence MB*

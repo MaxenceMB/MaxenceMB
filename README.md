@@ -1,4 +1,4 @@
-# 👋 Yoo, I’m @MaxenceMB
+# 👋 Yooo, I’m @MaxenceMB
 - I'm a Computer Science student from France 🇫🇷
 - I love coding, art and video-games which makes me wanna combine the first two to make my own third.
 
@@ -9,17 +9,16 @@
 > My Portfolio website.  
 > A website where all informations about me (my life, works, contacts...) are grouped in the same place.  
 > The website is made in HTML, pure CSS and JavaScript. Also, I host the website myself on my Debian 12 VPS forcing me to use Unix shell commands few times a week.  
-> This is a personnal project.
->
-> Github repository: [MaxenceMB/website-portfolio](https://github.com/MaxenceMB/website-portfolio) 
+> This is a personnal project.     
+>    
+> Github repository: [MaxenceMB/website-portfolio](https://github.com/MaxenceMB/website-portfolio)
 
-> ### MaxenceMB/doctors-office-api
-> An API made for the Doctors Office website made with [@enzolouis](https://github.com/enzolouis)    
-> The API is made in PHP. All basic REST API functions (POST, PATCH, GET...) are implemented.    
-> We also made an authentification API that makes and verify JWT Tokens. For the database, its MySQL using PHPMyAdmin.   
-> This is an university project.
->
-> Github repository: [MaxenceMB/doctors-office-api](https://github.com/MaxenceMB/doctors-office-api)
+> ### MaxenceMB/jumpy-hurrier
+> A small video-game similar to the Junimo Kart minigame in Stardew Valley. I loved this little game so I make my own version !   
+> I make it using Unity as a Game Engine and so C# for programming. All the sprites and assets in general are selfmade.   
+> This is a personnal project.   
+>    
+> Github repository: [MaxenceMB/jumpy-hurrier](https://github.com/MaxenceMB/jumpy-hurrier)
 
 
 ## Contacts
